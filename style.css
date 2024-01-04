@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  font-family: arial;
+  background-color: black;
+  color: white;
+}
+.main-image{
+  display: inline-block;
+  cursor: pointer;
+}
+.image{
+  height: 240px;
+  width: 350px;
+  margin-top: 10px;
+  margin-left: 50px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.content{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.heading{
+  font-size: 21px;
+  font-weight: 500;
+}
+.views{
+  font-size: 13px;
+  margin-top: 5px;
+  color: rgb(151, 151, 151);
+}
+.c1{
+  display: inline-block;
+}
+.c2{
+  display: inline-block;
+}
+.channel{
+  height: 10px;
+  border: 10px solid red;
+}
+.channel-image{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  vertical-align: middle;
+}
+.channel-name{
+  font-size: 13px;
+  color: rgb(151, 151, 151);
+  vertical-align: middle;
+}
+.video-link{
+  font-size: 12px;
+  color: rgb(151, 151, 151);
+}
